@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Vali</string>
+
+  <string name="validate">Validate</string>
+  <string name="hint_email">E-mail address</string>
+  <string name="hint_password">Password</string>
+  <string name="error_incorrect_email">Provided email is incorrect</string>
+  <string name="error_password_too_short">Provided password is too short</string>
+</resources>
